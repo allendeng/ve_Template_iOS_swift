@@ -44,11 +44,11 @@
 	<key>project_info</key>
 	<dict>
 		<key>ak</key>
-		<string>MARS_AK_KEY</string>
+		<string>5ac0cdc605d01b06a389f0595fc45aea</string>
 		<key>sk</key>
-		<string>MARS_SK_KEY</string>
+		<string>877a9e2d6723741c8a69f0e3bca61abd</string>
 		<key>app_id</key>
-		<string>APP_ID</string>
+		<string>10002792</string>
 		<key>is_inhouse_app</key>
 		<false/>
 	</dict>
